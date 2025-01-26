@@ -23,7 +23,7 @@ interface FooterProps {
 export const Footer = ({ className }: FooterProps) => {
   const currentYear = new Date().getFullYear();
   return (
-    <footer style={{ height: '220px', width: '100vw' }} className={className}>
+    <footer style={{ height: '120px', width: '100vw' }} className={className}>
       <Section height="120px" background={Colors.Purple}>
         <VStack gap="32">
           <StringCanvas width={'100%'} animated4 />
