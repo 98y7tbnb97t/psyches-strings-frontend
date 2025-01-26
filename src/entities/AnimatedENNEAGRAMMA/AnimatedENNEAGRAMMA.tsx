@@ -123,6 +123,7 @@ export const AnimatedENNEAGRAMMA: React.FC<AnimatedENNEAGRAMMAProps> = ({
             strokeLinejoin="round"
             strokeWidth="15.56"
           />
+          
         </g>
         {/* <circle cx="1000" cy="1000" r="1000" fill="url(#portalGradient3)" /> */}
         <text
